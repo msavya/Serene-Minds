@@ -1,2 +1,3 @@
 # Serene-Minds
-Moved a project from Replit, where I worked on it from July 2023 to August 2023
+Replit project: https://replit.com/@christinealthea/SereneMindWebsite
+Worked on it from July 2023 to August 2023
